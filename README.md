@@ -22,8 +22,6 @@
  <li>Player2 Will Win If player1 Will be able to manage 3 "O" in the Same Row/Column/Diagonal</li>
  <li>After Every Winning Users Can Restart The Game</li>
 </ul>
-<h3>Contributor : </h3>
-<ul><li>Rahim Ansari(Individual).</li></ul>
+## Demo
+ [https://silver-squirrel-ff2221.netlify.app/]
 
-<img align="center" src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" width="300" />
-<h1 align="center">THANK YOU For Visiting...</h1>
